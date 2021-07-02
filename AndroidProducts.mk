@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_vayu.mk
+    $(LOCAL_DIR)/descendant_vayu.mk
